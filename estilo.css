@@ -1,7 +1,13 @@
 body {
-    color: aqua;
+    
     background-color: rgb(122, 224, 131);
 }
-form {
-    background-color: aqua;
+
+img {
+    width: 200px;
+    height: 200px;
+    clip-path: circle();
+}
+footer {
+    text-align: center;
 }
